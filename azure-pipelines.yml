@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: 'Mydemoagent'
+pool: 'windows-latest'
 
 variables:
   solution: '**/*.sln'
